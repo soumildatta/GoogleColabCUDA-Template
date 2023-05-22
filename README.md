@@ -1,4 +1,4 @@
-# GoogleColabCUDA-Template
+# Google Colab CUDA Template
 It is quite simple to get started with learning CUDA even if you do not own an NVidia GPU. Google collab offers users to use their GPU instances for free. Although it might not be ideal for high-performance computation, it is a great way to get started learning CUDA. This repository is a template for running CUDA C++ programs on Google Colab notebooks.
 
 ## Getting started with the template
